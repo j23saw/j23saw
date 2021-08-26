@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayesh Sawant</h1>
-<h3 align="center">I love to program microcontrollers and making things move :D</h3>
+<h3 align="center">I love to program tiny computers which make things move :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j23saw&label=Profile%20views&color=0e75b6&style=flat" alt="j23saw" /> </p>
 
