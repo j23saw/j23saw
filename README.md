@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j23saw&label=Profile%20views&color=0e75b6&style=flat" alt="j23saw" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jayesh23sawant" target="blank"><img src="https://img.shields.io/twitter/follow/jayesh23sawant?logo=twitter&style=for-the-badge" alt="jayesh23sawant" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jeshtwt" target="blank"><img src="https://img.shields.io/twitter/follow/jeshtwt?logo=twitter&style=for-the-badge" alt="jeshtwt" /></a> </p>
 
 - 🌱 I’m currently learning **Embedded C on STM32 Cortex-M4 MCUs**
 
